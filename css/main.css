@@ -6,6 +6,8 @@
 /* =================================== */
 /*  Basic Style 
 /* =================================== */
+
+
 .footer p{
 display: flex;
 justify-content:center;
@@ -1545,14 +1547,14 @@ h1, h2, h3, h4, h5, h6 {
       -o-transition: all 0.3s ease 0s;
       transition: all 0.3s ease 0s; }
       .header-top .header-top-right a:hover i {
-        color: #3face4; }
+        color: black; }
   .header-top .header-top-left {
     border-right: 1px solid #cccccc;
     display: inline-block; }
     .header-top .header-top-left a {
       margin-right: 30px; }
       .header-top .header-top-left a i {
-        color: #3face4; }
+        color: black; }
   .header-top .lnr {
     display: none; }
   @media (max-width: 588px) {
@@ -1620,7 +1622,7 @@ h1, h2, h3, h4, h5, h6 {
 #header #logo h1 a:hover {
   color: #000;
   padding-left: 10px;
-  border-left: 4px solid #3face4; }
+  border-left: 4px solid black; }
 
 #header #logo img {
   padding: 0;
@@ -1808,13 +1810,13 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff; }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #3face4; }
+  color: black; }
 
 #mobile-nav ul .menu-has-children li a {
   text-transform: none; }
 
 #mobile-nav ul .menu-item-active {
-  color: #3face4; }
+  color: black; }
 
 #mobile-body-overly {
   width: 100%;
